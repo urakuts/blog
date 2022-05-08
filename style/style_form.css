@@ -1,0 +1,29 @@
+.container-form h1{
+    line-height: 96px;
+}
+.cnt-form{
+    display: flex;
+    justify-content: center;
+}
+#user-name, #user-mail
+{
+    width: 505px;
+    height: 54px;
+    margin: 14px;
+}
+#user-content{
+    width: 505px;
+    height: 186px;
+    margin: 14px;
+
+}
+#form-btn{
+    width: 295px;
+    height: 55px;
+    background: #30ABAE;
+    border-radius: 3px;
+    color: white;
+    margin-left: 120px;
+    margin-bottom: 154px;
+    border: none;
+}
